@@ -29,5 +29,4 @@ class EcomscrapSpider(scrapy.Spider):
             'SKU' : response.xpath("//div[@class='product_meta']/span[@class='sku_wrapper']/span[@class='sku']/text()").get(),
             'Categories' : response.xpath("//div[@class='product_meta']/span[@class='posted_in']/a/text()").getall(),
             'Tags' : response.xpath("//div[@class='product_meta']/span[@class='tagged_as']/a/text()").getall(),
-            
         }
