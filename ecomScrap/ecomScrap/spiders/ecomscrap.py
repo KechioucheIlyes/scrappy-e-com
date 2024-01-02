@@ -13,7 +13,7 @@ class EcomscrapSpider(scrapy.Spider):
             link = children.xpath('.//div[1]/a/@href').get()
             
             yield response.follow(link, callback=self.new_fun)
-            
+        
         
         next_btn = response.xpath('//*[@id="primary"]/nav/ul/li[4]/a/@href').get()
         if next_btn : 
