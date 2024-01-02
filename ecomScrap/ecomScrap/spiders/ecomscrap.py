@@ -21,7 +21,8 @@ class EcomscrapSpider(scrapy.Spider):
             yield scrapy.Request(url=new_url , callback=self.parse)
             
             
-    def new_fun(self , response) : 
+    def new_fun(self , response) :
+        
         yield {
             'title' : response.xpath("//div[@id='primary']/div/div[@class='summary entry-summary']/h1/text()").get(),
             'price' : float(response.xpath("//div[@class='summary entry-summary']/p[@class='price']/span[@class='woocommerce-Price-amount amount']/bdi/text()").get()),

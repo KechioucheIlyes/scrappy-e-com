@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Shoes Converse (Copy)",
+        "price": 321.0,
+        "SKU": "shoe-cc",
+        "Categories": [
+            "Kids",
+            "Men",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "converse",
+            "shoes",
+            "white"
+        ]
+    },
+    {
+        "title": "Concise Fashion",
+        "price": 49.0,
+        "SKU": "1",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Star shoes",
+        "price": 119.0,
+        "SKU": "shoe-c",
+        "Categories": [
+            "Kids",
+            "Men",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "shoes"
+        ]
+    },
+    {
+        "title": "Cos Skirts",
+        "price": 119.5,
+        "SKU": "2",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Shoes Converse",
+        "price": 324.0,
+        "SKU": "shoe-c",
+        "Categories": [
+            "Kids",
+            "Men",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "converse",
+            "shoes",
+            "white"
+        ]
+    },
+    {
+        "title": "Women white pants",
+        "price": 149.99,
+        "SKU": "shirt-pant-1",
+        "Categories": [
+            "pants",
+            "Women",
+            "Women's"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Black dress",
+        "price": 98.99,
+        "SKU": "4",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Herring Bone",
+        "price": 10.82,
+        "SKU": "3",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Woollen shirt",
+        "price": 79.0,
+        "SKU": "sweater",
+        "Categories": [
+            "Kids",
+            "Tops",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "green",
+            "woollen"
+        ]
+    },
+    {
+        "title": "Armani Shirt",
+        "price": 79.0,
+        "SKU": "sweater-1",
+        "Categories": [
+            "Tops",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "woollen"
+        ]
+    },
+    {
+        "title": "Women Wear",
+        "price": 249.99,
+        "SKU": "shirt-pant",
+        "Categories": [
+            "Kids",
+            "Tops",
+            "Women",
+            "Women's"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Women grey pants",
+        "price": 59.0,
+        "SKU": "shirt-pant-1-1",
+        "Categories": [
+            "pants",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Vionnet",
+        "price": 5.0,
+        "SKU": "5",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Villa",
+        "price": 98.99,
+        "SKU": "4",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Yellow dress",
+        "price": 290.99,
+        "SKU": "4-1",
+        "Categories": [
+            "Tops",
+            "Women"
+        ],
+        "Tags": []
+    },
+    {
+        "title": "Summer shoes",
+        "price": 119.0,
+        "SKU": "shoe-c-1",
+        "Categories": [
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "shoes"
+        ]
+    },
+    {
+        "title": "Variant Product",
+        "price": 12.0,
+        "SKU": "variable",
+        "Categories": [
+            "Women"
+        ],
+        "Tags": [
+            "product",
+            "variant"
+        ]
+    },
+    {
+        "title": "Woollen Sweater",
+        "price": 199.99,
+        "SKU": "sweater",
+        "Categories": [
+            "Kids",
+            "Tops",
+            "Women",
+            "Women's"
+        ],
+        "Tags": [
+            "white",
+            "woollen"
+        ]
+    }
+]
